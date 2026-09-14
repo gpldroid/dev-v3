@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://gpldroid.github.io/dev-v3/</loc></url>
-  <url><loc>https://gpldroid.github.io/dev-v3/platforms.html</loc></url>
-  <url><loc>https://gpldroid.github.io/dev-v3/instructions.html</loc></url>
-  <url><loc>https://gpldroid.github.io/dev-v3/privacy.html</loc></url>
-  <url><loc>https://gpldroid.github.io/dev-v3/terms.html</loc></url>
-  <url><loc>https://gpldroid.github.io/dev-v3/sitemap.html</loc></url>
+  <url><loc>https://gpldroid.github.io/dev-v3/</loc><lastmod>2026-09-14</lastmod></url>
+  <url><loc>https://gpldroid.github.io/dev-v3/about.html</loc><lastmod>2026-09-14</lastmod></url>
+  <url><loc>https://gpldroid.github.io/dev-v3/platforms.html</loc><lastmod>2026-09-14</lastmod></url>
+  <url><loc>https://gpldroid.github.io/dev-v3/instructions.html</loc><lastmod>2026-09-14</lastmod></url>
+  <url><loc>https://gpldroid.github.io/dev-v3/privacy.html</loc><lastmod>2026-09-14</lastmod></url>
+  <url><loc>https://gpldroid.github.io/dev-v3/terms.html</loc><lastmod>2026-09-14</lastmod></url>
+  <url><loc>https://gpldroid.github.io/dev-v3/sitemap.html</loc><lastmod>2026-09-14</lastmod></url>
 </urlset>
